@@ -1,0 +1,75 @@
+	html {
+		margin: 0 300px 0 300px;
+		background-image: url(img/Background.svg);
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+		text-indent: none;
+	}
+	
+	body {
+		color: white;
+	}
+	
+	a {
+		text-decoration: none;
+		color: white;
+		font-size: 25px;
+	}
+	
+	p {
+		font-size: 23px;
+	}
+	
+	h3 {
+		font-size: 30px;
+	}
+	
+	h1 {
+		font-size: 35px;
+	}
+	
+	button {
+		width: 400px;
+		height: 100px;
+		font-size: 50px;
+		color: white;
+		background-color: green;
+		border-color: #0b4a0a;
+		cursor: pointer;
+	}
+	
+	input[type=checkbox] {
+		-ms-transform: scale(2.4);
+		-moz-transform: scale(2.4);
+		-webkit-transform: scale(2.4);
+		-o-transform: scale(2.4);
+		transform: scale(3);
+	}
+	
+	input[type=text] {
+		-ms-transform: scale(1.4);
+		-moz-transform: scale(1.4);
+		-webkit-transform: scale(1.4);
+		-o-transform: scale(1.4);
+		transform: scale(1.8);
+		color: white;
+		border: none;
+		background: white;
+		border-radius: 5px;
+	}
+	
+	span {
+		font-size: 40px;
+	}
+	
+	li {
+		font-size: 35px;
+	}
+	
+	input {
+		background: none;
+	}
